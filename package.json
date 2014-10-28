@@ -1,0 +1,13 @@
+{
+  "name": "grunt-steelapp",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.8"
+  },
+  "dependencies": {
+    "request": "~2.21.0",
+    "underscore": "~1.4.4",
+    "q": "~0.9.6"
+  }
+}
